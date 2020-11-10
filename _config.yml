@@ -1,3 +1,5 @@
+mkdocs gh-deploy --clean
+
 site_name: XL Learn User Guide ## this is the website website name
 nav:
   - Home: index.md
